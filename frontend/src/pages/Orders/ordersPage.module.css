@@ -47,7 +47,7 @@
   margin-top: 2rem;
 }
 
-.order_summary > * {
+.order_summary>* {
   padding: 0.8rem;
 }
 
@@ -84,6 +84,7 @@
   border-top: 1px solid whitesmoke;
   border-radius: 0 0 1rem 1rem;
 }
+
 .price {
   color: green;
 }

@@ -1,0 +1,22 @@
+{
+  "name": "foodmine-react",
+  "version": "1.0.0",
+  "description": "## 1. Demo And Installation",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "prebuild": "cd backend && npm install & cd frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "postbuild": "move frontend//build backend//src//public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18 <19"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "^5.0.1"
+  }
+}

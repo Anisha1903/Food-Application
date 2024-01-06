@@ -54,5 +54,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Explore the Code
 
-Find the project on GitHub:
-- [Repository](https://github.com/Anisha1903/Food-Application)
+Find the project on GitHub: [Repository](https://github.com/Anisha1903/Food-Application)

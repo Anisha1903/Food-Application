@@ -6,7 +6,15 @@ Welcome to the MERN Stack Food Application! Immerse yourself in a real-time culi
 
 Check out the live demo of the application [here](https://food-application-v0vy.onrender.com).
 
-## Available Scripts
+## Features
+
+- **Recipe Exploration:** Discover a wide range of recipes to inspire your culinary journey.
+- **Inventory Management:** Efficiently manage your food inventory to keep track of ingredients.
+- **Real-time Updates:** Experience real-time updates and changes, ensuring a seamless user experience.
+- **Payment Integration:** Make secure and seamless payments for a hassle-free transaction process.
+- **Responsive Design:** Enjoy a consistent and user-friendly interface on various devices.
+
+## Getting Started
 
 In the project directory, you can run:
 
@@ -44,6 +52,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## GitHub Repository
+## Explore the Code
 
-Find the project on GitHub: [MERN Stack Food Application](https://github.com/Anisha1903/Food-Application)
+Find the project on GitHub: [Repository](https://github.com/Anisha1903/Food-Application)
